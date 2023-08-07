@@ -1,0 +1,4 @@
+name: BowSilici
+version: '${project.version}'
+main: me.reyretee.bowsilici.BowSilici
+api-version: '1.16'
